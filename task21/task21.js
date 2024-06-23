@@ -9,4 +9,4 @@ const getNOD = (a, b) => {
     return a + b
 }
 
-console.log(getNOD(36, 10));
+console.log(getNOD(7, 10));
